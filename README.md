@@ -1,2 +1,2 @@
 # igniter
-Go Framework
+Web development with Go
